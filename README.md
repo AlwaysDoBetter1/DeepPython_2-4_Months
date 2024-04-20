@@ -1,4 +1,4 @@
-Passing course '"Generation Python": advanced course': [link](https://stepik.org/course/68343/syllabus) and some of programs was added to this repository. Topics of this course:
+Passing course '"Generation Python": advanced course': [link](https://stepik.org/course/82541/syllabus) and some of programs was added to this repository. Topics of this course:
 
 1) Reviewing the Python constructs(Preivous months)
 
