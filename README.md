@@ -6,12 +6,14 @@ Passing course '"Generation Python": course for professionals': [link](https://s
 
 3) Learn to work with date and time
 
-4) Learn to work with json, csv and zip data formats
+4) Learn to work with json, csv, zip and pickle data formats
 
-5) Explore types of additional collections
+5) Memory device and data type features
 
-6) Master decorators, generators and iterators
+6) Explore types of additional collections
 
-7) Learn recursion
+7) Master decorators, generators and iterators
 
-8) Learn to use regular expressions
+8) Learn recursion
+
+9) Learn to use regular expressions
