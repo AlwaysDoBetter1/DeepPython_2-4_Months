@@ -12,8 +12,10 @@ Passing course '"Generation Python": course for professionals': [link](https://s
 
 6) Explore types of additional collections
 
-7) Master decorators, generators and iterators
+8) Exception handling
 
-8) Learn recursion
+9) Master decorators, generators and iterators
 
-9) Learn to use regular expressions
+10) Learn recursion
+
+11) Learn to use regular expressions
